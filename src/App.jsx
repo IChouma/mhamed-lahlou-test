@@ -38,7 +38,7 @@ function App() {
         <div className="container-xs">
           <div className="row">
             <img src={pixel} alt="" className='col-md-5 col-12' />
-            <div className="col  col-md-7 col-12 p-5 align-self-center text-md-start text-center">
+            <div className="col  col-md-7 col-12 p-md-5 p-2 align-self-center text-md-start text-center">
               <h5 className='fw-bold fs-4 '>Nos serveurs sont actuellment indisponibles!</h5>
               <p>nos équipes technique mettent tout en oeuvre  ppur résourdre ce probléme au plus vite. Nous sommes désolés pour le géne occasionée. <br />
                si vous avez besoin d'aide, n'hésitez pas à contacter notre service commercial au <span className='fw-bold'>06 61 77 11 40 </span >ou notre service client au <span className='fw-bold'>06 61 77 11 40.</span>
