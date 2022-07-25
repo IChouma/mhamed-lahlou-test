@@ -11,6 +11,11 @@ import pixel from "./pixel.jpg"
 import boo from "./boo.png"
 import phone from "./icon-phone.png"
 import logoFooter from "./Logo-footer.png"
+import twitter from "./stwitter.png"
+import instagram from "./instagram.png"
+import pintrest from "./pintrest.png"
+import facebook from "./facebook.png"
+import lIn from "./l-in.png"
 
 function App() {
   return (
@@ -64,11 +69,11 @@ function App() {
             <div className='col-md-6 col-12 ordr-md-2 order-1 d-md-none mt-3 text-md-end text-center  '>
             <span className='text-light-50  me-md-3 me-0  fw-bold  '>SUIVEZ NOUS: </span>
           <div className="social-m d-inline-block  ">
-            <img src={fr} className="ms-2" alt="" />
-            <img src={es} className="ms-2"alt="" />
-            <img src={it} className="ms-2"alt="" />
-            <img src={de} className="ms-2"alt="" />
-            <img src={at} className="ms-2"alt="" />
+            <img src={instagram} className=" s-m-img ms-2" alt="" />
+            <img src={twitter} className=" s-m-img ms-2"alt="" />
+            <img src={lIn} className=" s-m-img ms-2"alt="" />
+            <img src={facebook} className=" s-m-img ms-2"alt="" />
+            <img src={pintrest} className=" s-m-img ms-2"alt="" />
           </div>
           </div>
         </section>

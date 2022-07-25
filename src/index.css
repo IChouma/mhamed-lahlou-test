@@ -13,7 +13,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 #header {
-border-bottom: 3px solid var(--orange-color);
+border-bottom: 4px solid var(--orange-color);
+}
+.s-m-img{
+  height: 30px;
+  width: 30px;
 }
 
 code {
